@@ -1,7 +1,6 @@
 streamlit
-numpy
 pandas
-nltk
+numpy
 matplotlib
-requests
-wordcloud
+seaborn
+scikit-learn
